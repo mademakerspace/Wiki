@@ -1,8 +1,7 @@
 site_name: association wiki
 theme:
   name: custommill
-  main_color: '#F66B58'
-  # main_color: '#14171f'
+  main_color: '#14171f'
   toc_depth: 10
   home: home
   include_search_page: true
