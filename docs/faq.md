@@ -19,8 +19,8 @@ All paying members have the option to also rent out private workspaces and desks
 
 Via Bank Transfer:
 
-	**Account Name:** Associacio MADE  
-	**IBAN**: ES05 0049 6125 2722 1005 9069
+**Account Name:** Associacio MADE  
+**IBAN**: ES05 0049 6125 2722 1005 9069
 
 ### Do I need to be an expert in XYZ to become a member?
 

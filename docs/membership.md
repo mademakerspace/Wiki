@@ -1,4 +1,4 @@
-# About reMADE Members
+# Membership
 
 reMADE is a space managed and collectively owned by Associacio MADE, a registered non-for-profit association, founded in Barcelona in 2014\. The space and the association is entirely financed by membership fees and support of the community in form of donations.
 
