@@ -1,0 +1,21 @@
+site_name: association wiki
+theme:
+  name: custommill
+  main_color: '#14171f'
+  toc_depth: 10
+  home: home
+  include_search_page: true
+  locale: en
+  highlightjs: false
+# These are configuration options for the custommill theme.
+# See https://siphalor.github.io/mkdocs-custommill/#customization/~extra-configuration-options
+extra:
+  logo: 'images/remade-logo-transparent.svg'
+  # article_nav_top: false
+markdown_extensions:
+  toc:
+    toc_depth: '1-6'
+# nav:
+#   - About Made:
+#     - 'about-made.md'
+#     - 'membership.md'
