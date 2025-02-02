@@ -1,7 +1,7 @@
-site_name: reMade association wiki
+site_name: association wiki
 theme:
   name: custommill
-  main_color: '#F66B58'
+  main_color: '#14171f'
   toc_depth: 10
   home: home
   include_search_page: true
@@ -10,9 +10,12 @@ theme:
 # These are configuration options for the custommill theme.
 # See https://siphalor.github.io/mkdocs-custommill/#customization/~extra-configuration-options
 extra:
-  # logo: 'images/BookBrainz_logo_bw.svg'
-  article_nav_top: false
+  logo: 'images/remade-logo-transparent.svg'
+  # article_nav_top: false
 markdown_extensions:
   toc:
-    toc_depth: '2-6'
+    toc_depth: '1-6'
 # nav:
+#   - About Made:
+#     - 'about-made.md'
+#     - 'membership.md'

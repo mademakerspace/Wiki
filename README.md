@@ -1,4 +1,4 @@
-# reMade association wiki
+# reMADE association wiki
 
 The guide is available at [https://remade-association.readthedocs.io/].
 
