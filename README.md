@@ -1,4 +1,4 @@
 # Wiki
 
-This repository contains assets for the wiki that is available at:
+The historical wiki is available at, for reference only:
 https://github.com/mademakerspace/Wiki/wiki
