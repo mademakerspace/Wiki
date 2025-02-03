@@ -1,6 +1,6 @@
 # reMADE association wiki
 
-The guide is available at [https://remade-association.readthedocs.io/].
+The guide is available at [https://remade-wiki.readthedocs.io/en/latest/].
 
 
 This repository contains the (Markdown)[https://www.markdownguide.org/] files hosted on ReadTheDocs.
