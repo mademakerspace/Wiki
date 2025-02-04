@@ -1,8 +1,10 @@
-# Introduction to Made
-
 <img src="../images/remade-logo.svg" alt="reMADE" width="350" style="display:block; margin-inline:auto;"/>
 
-Associacio MADE, a registered non-for-profit association, was founded in Barcelona in 2014\. The space and the association is entirely financed by membership fees and support of the community in form of donations. Our current iteration is called reMADE and has been open since 2024\.
+# Welcome to reMADE
+
+Associacio MADE, a registered non-for-profit association, was founded in Barcelona in 2014\. The space and the association is entirely financed by membership fees and support of the community in form of donations.
+
+Our current iteration is called reMADE and has been open since 2024.
 
 ### Our Mission
 

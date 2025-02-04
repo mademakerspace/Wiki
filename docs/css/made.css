@@ -1,0 +1,28 @@
+:root {
+    --remade-accent-color: #ca4837;
+}
+
+/* Links in content pages */
+.wm-page-content a,
+.wm-page-content a:hover,
+.wm-page-content a:focus,
+.wm-page-content a:visited,
+#mkdocs-search-results a,
+#mkdocs-search-results a:hover,
+#mkdocs-search-results a:focus,
+#mkdocs-search-results a:visited {
+    color: var(--remade-accent-color);
+    text-decoration-color: var(--remade-accent-color);
+}
+
+/* Table of contents sidebar */
+.wm-toc-pane li.wm-current {
+    background-color: var(--remade-accent-color);
+}
+
+.wm-toc-pane a,
+.wm-toc-pane a:hover,
+.wm-toc-pane a:focus,
+.wm-toc-pane a:visited {
+    text-decoration: none;
+}
