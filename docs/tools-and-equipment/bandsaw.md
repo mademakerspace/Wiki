@@ -1,6 +1,6 @@
 # Bandsaw
 
-### Basic Safety Information
+### Basic User Safety Information
 See the document [Bandsaw_Userhandout_V5.pdf](./manuals/Bandsaw_Userhandout_V5.pdf) for basic safety instructions.
 
 ### How to change the blade?
@@ -11,4 +11,4 @@ The saw blade must be 3345mm long.
 - Hoja de sierra [Holzstar AS5160432](https://www.dismak.com/epages/62027821.sf/es_ES/?ObjectPath=/Shops/62027821/Products/AS5160432) 10x0,5x3.345 mm / 4 ZZ
  
 ### Full PDF Instruction Manual
-See the document [holzkraftbandsaw_Manual.pdf](./manuals/holzkraftbandsaw_Manual.pdf) for basic safety instructions.
+See the document [holzkraftbandsaw_Manual.pdf](./manuals/holzkraftbandsaw_Manual.pdf) for the full instruction Manual in PDF form.
