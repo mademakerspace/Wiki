@@ -14,11 +14,13 @@ Printables, Thangs, Thingsverse: See this wiki page (CREATE: 3D printing resourc
 
 … or you can design your own 3D models to manufacture your unique design, but this requires learning 3D modeling software
 
+![3D Printing](./images/prusa-manual-img.png)
 
 ## How to 3D print (easy mode)
 
 - Find a model online, take note of specifications, download file(s)
 - Load the files into a slicer software (we use Prusa Slicer)
+![Slicer](./images/prusa-slicer-img.png)
 - Ensure specifications are edited in your slicer software
 - Slice the model into a .gcode file and load that onto an SD card
 - Put the SD card in printer, follow our checklist, start the print
@@ -76,9 +78,11 @@ If you don’t report the printer is broken, we won’t know it needs fixing
 - Use two hands and remove the flexible metal print sheet
 - De-dust the whole print sheet with soft fabric 
 - Use hairspray on the area where your print will be (see: slicer software)
-- Re-align the print sheet as shown (add image: prusa-bed-align-img)
+- Re-align the print sheet as shown
+![Prusa bed align](./images/prusa-bed-align-img.png)
 - Turn on the 3D printer (switch is located on the back of machine)
-- Use the LCD control menu: (add image: prusa-lcd-screen)
+- Use the LCD control menu:
+![Prusa LCD Screen](./images/prusa-lcd-img.png)
 -- Press the Control Knob like a button
 -- Rotate the knob and select ‘Load filament’ 
 -- Place filament into the hole on top of print head
@@ -109,6 +113,7 @@ If you don’t report the printer is broken, we won’t know it needs fixing
 - The print bed will then move forwards towards you
 - Pull the print bed sheet off the printer, there are two points marked with ‘fingerprints’ on the sheet for this purpose. (CAUTION: HOT)
 - GENTLY flex the print sheet with two hands, this will loosen the print and allows you to push it off without applying much force. The print will not always 'pop' off all times, do not expect this.
+![Prusa Flex Bed](./images/prusa-flex-img.png)
 - NEVER use metal tools to scrap the print off the print bed sheet, there are plastic tools located near the printers for this purpose.
 - If there are traces of the first layer on the print sheet, use the hairspray and the plastic scraper to clean these off.
 - Use the Control Knob, select ‘unload filament’, follow instructions on LCD screen and pull the filament out of the print head. 

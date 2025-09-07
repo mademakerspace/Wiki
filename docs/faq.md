@@ -8,12 +8,10 @@ reMADE is a space managed and collectively owned by Associacio MADE. The space a
 
 ### How much does membership cost?
 
-Please refer to this opage for more information: [membership](membership.md#membership-fees)
-
 Every person pays a general membership of **50€ per month**, every month, in full.
 
 All paying members have the option to also rent out private workspaces and desks for an additional fee (subject to availability).
-
+Please refer to this page for more information: [membership](membership.md#membership-fees)
 
 ### How can I make payments or donations?
 
