@@ -22,5 +22,5 @@ If you suspect that something you are planning would bother the other members, i
 * Please put tools back where you found them  
 * Don't defeat or hack safety features/equipment. This is for other people's safety as much as yours.  
 * If something is broken, fix it; don't complain. If you can't fix it, inform the members within the Telegram group chat ASAP.  
-* If you are the last person leaving the soace, make sure all windows and doors are closed and locked, the lights are off, and all heating tools are unplugged (soldering irons, hot glue guns, 3D printers, etc.).   
+* If you are the last person leaving the space, make sure all windows and doors are closed and locked, the lights are off, and all heating tools are unplugged (soldering irons, hot glue guns, 3D printers, etc.).   
 * Always set the alarm if you are the last person leaving
