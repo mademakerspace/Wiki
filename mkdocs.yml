@@ -1,4 +1,4 @@
-site_name: association wiki
+site_name: ""
 theme:
   name: custommill
   main_color: '#14171f'
@@ -18,5 +18,6 @@ markdown_extensions:
 extra_css:
   - css/made.css
 plugins:
+  - search
   - awesome-pages # Required for pagenav-generator
   - pagenav-generator
