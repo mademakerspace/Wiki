@@ -2,17 +2,30 @@
 
 reMADE has a sizable collection of hand tools and power tools, as well as some larger equipment. Below is a general usage instructions and a (not comprehensive) list of the tools available in our space
 
+## Main sections
+
+- [3D Printing](./3d-printing/)
+- [Metalworking](./metalworking/)
+- [Woodworking](./woodworking/)
+- [Others (see full list below)](#documented-in-this-wiki)
+
 ## Using the Equipment
 
+* **Taking tools out of the space is prohibited.**
 * A few of the tools in our space are easy to break and/or dangerous, and require that you attend a training session before you may use them. Currently, you need training to use the laser cutters, CNC, and 3D printers. The golden rule for other power tools is: if you haven't used this exact make & model of tool before, please ask another member to show you how to use it safely.  
-* Taking tools out of the space is prohibited.  
 * Some tools have components that wear down and/or need replaceable parts (drill bits, sand belts, saw blades, etc.).   
 * If you break or wear down something, you must buy the equivalent replacement. Save the receipts; in some cases MADE can cover the cost.
 * Loud machinery and noises must end by 22:00 every day (sound curfew)
 * Workbenches should be completely clean when you leave - be considerate for the next user.
 * Please put tools back where you found them
+* No drinking in the carpentry space
 
-## The tools
+
+## Documented in this wiki
+
+{nav}
+
+## And more tools
 
 * Band saw, circular saw, jig saws, keyhole saw, hand saws (wood and metal), rasps, files, chisels  
 * Belt sanders, disk sander, oscillating spindle sander, hand orbital sanders, rotary grinding wheel  
@@ -22,8 +35,4 @@ reMADE has a sizable collection of hand tools and power tools, as well as some l
 * 3D printers
 * Laser cutter
 * WiFi, printer, and scanner
-
-**Documented in this wiki:**
-
-{nav}
 

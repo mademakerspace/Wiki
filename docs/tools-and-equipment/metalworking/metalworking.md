@@ -5,3 +5,5 @@
 - vises
 - other metalworking tools
 - welder (make separate page)
+
+{nav}
