@@ -14,7 +14,7 @@ Anyone can easily start by printing models from the internet by searching websit
 
 ## Basic steps on how to 3D print
 
-- Find a model online, take note of the specifications of that model, download the files (usually in .stl format)
+- Find a model online, take note of the specifications of that model, download the files
 - Load the files into a slicer software, we use [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
 - Ensure specifications from your downloaded model are edited into the slicer software
 - Slice the model, which will export a .gcode file and load that onto an SD card
@@ -25,7 +25,7 @@ Anyone can easily start by printing models from the internet by searching websit
 
 ## Slicer Software
 
-A Slicer is software that creats 'slices' a 3D models into machine code for the 3D printer to follow (.gcode). This is an essential step in preparing your project for printing on any 3D printer machine. You will import a 3d model into the software and select the correct printer, filament material, print settings (layer height) and infill for your print.
+A Slicer is software that literally 'slices' a 3D models into machine code for the 3D printer to follow (.gcode). This is an essential step in preparing your project for printing on any 3D printer machine. You will import a 3d model into the software and select the correct printer, filament material, print settings (layer height) and infill for your print.
 
 ![Slicer](./images/prusa-slicer-img.png)
 
