@@ -1,62 +1,71 @@
 # 3D Printing Induction
 
 ## The World of 3D Printing
-Types of 3D printing: FDM (fuse deposition modeling), Laser (SLS, DMLS, EBM), Resin, Ceramic, Food, Metal printing
-Filament material: PLA, PETG, ABS, TPU, Nylon and many others
-Printer brands: Prusa, Creality, Ender, LulzBot, Ultimaker, Bambu
-Ideas of what to print: repair broken plastic parts, custom spacers, prototypes, figurines, functional prints, organisers, print-in-place
-Future of 3D printing: medical devices, bone implants, prosthesics, whole buildings, custom metal manufacturing
+
+- Types of 3D printing: FDM (fuse deposition modeling), Laser (SLS, DMLS, EBM), Resin, Ceramic, Food, Metal printing
+- Filament material: PLA, PETG, ABS, TPU, Nylon and many others
+- Printer brands: Prusa, Creality, Ender, LulzBot, Ultimaker, Bambu
+- Ideas of what to print: repair broken plastic parts, custom spacers, prototypes, figurines, functional prints, organisers, print-in-place
 
 The starting point for everyone is PLA on a FDM 3D Printer, you can then upskill into more difficult filaments and more advanced 3D printer types.
 
-You can easily start by printing models from the internet:
-Printables, Thangs, Thingsverse: See this wiki page (CREATE: 3D printing resources page)>
-
-… or you can design your own 3D models to manufacture your unique design, but this requires learning 3D modeling software
+You can easily start by printing models from the internet: [Printables, Thangs, Thingsverse - see this wiki page for full list of websites](./links-and-resources.md)
 
 ![3D Printing](./images/prusa-manual-img.png)
 
-## How to 3D print (easy mode)
+## Basic steps on how to 3D print
 
-- Find a model online, take note of specifications, download file(s)
-- Load the files into a slicer software (we use Prusa Slicer)
+- Find a model online, take note of the specifications of that model, download the files (usually in .stl format)
+- Load the files into a slicer software, we use [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/), it will looks like this:
 ![Slicer](./images/prusa-slicer-img.png)
-- Ensure specifications are edited in your slicer software
-- Slice the model into a .gcode file and load that onto an SD card
-- Put the SD card in printer, follow our checklist, start the print
-- Print ends, clean up printer, pay for filament used (honesty box)
-- ... if print fails, go back to slicer and make a v2 of project
+- Ensure specifications from your downloaded model are edited into the slicer software
+- Slice the model, which will export a .gcode file and load that onto an SD card
+- Put the SD card in printer, follow our checklist within the printer area, start the print
+- After print ends, clean up printer, pay for filament used (honesty box)
+- ... if print the fails, try again or go back to slicer and make changes to your print settings
 
 ## Slicer Software
 
-A Slicer is a program or piece of software that helps you 'slice' a 3D models in .stl file format into machine code for the 3D printer to follow. This is an essential step in preparing your project for printing on any machine. Here at ReMADE we use Prusa Slicer but you are welcome to use the slicer software of your preference, do bare in mind that some brands require you to use their slicer software (i.e. Bambu).
+A Slicer is software that creats 'slices' a 3D models into machine code for the 3D printer to follow (.gcode). This is an essential step in preparing your project for printing on any 3D printer machine. You will import a 3d model into the software and select the correct printer, filament material, print settings (layer height) and infill for your print.
 
-### Important Slicer settings:
-- Supports : (yes/no)
-- Build plate adhesion : (yes/no)
-- Print settings / Layer height	: (0.2 mm default, limit 0.1 mm)
-- Infill : (20% default, select a range between 10 - 85%)
+Here at ReMADE we use [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/) but you are welcome to use [the slicer software of your preference](https://en.wikipedia.org/wiki/Slicer_(3D_printing)), do bare in mind that some 3D printer brands require you to use their official slicer software (i.e. Bambu).
+
+### Basic steps within Slicer settings:
+- Import 3D model: right click the file and select 'open with Prusa Slicer'
+- Choose **Print Settings**: (0.2 mm is default, our machines are limited to 0.1 mm)
+- Select the correct**Filament**: (PLA/PETG/etc and colour)
+- Select the correct **Printer**: [see the 3D printers we have at our space](./3d-printers)
+- Choose **Supports** : (no/grid/snug/organic)
+- Choose **Infill** : (20% is the default, select any range between 10 - 100%)
+- Bottom right of slicer software - click on **Slice now**
+- The screen will change, in bottom right area you can find the **amount of filament used** and **estimated build time**
+- Now the **Slice now** button has become **Export G-code** - click on that and save the .gcode file to you work folder
+
+
 
 ### Slicer steps & tips
 - Ensure the correct printer and filament are selected (follow the specs)
-- Draft quality (0.2 mm) for your first print, as it prints quicker / less waste
-- Take note of amount of material (g) and time estimate for print to finish
-- Press the Slice button (bottom right of screen) and save the .gcode file
-- Rename the .gcode file, make a copy for your personal project folder
-- Move .gcode file to the SD card or bring it makerspace on a USB stick 
-- Save your slicer session before closing (important if you want a v2)
+- Select **Draft quality (0.2 mm)** for your first print, as it prints quicker and less waste
+- 20% infill is usually OK for most prints, change only if you are looking for something to be extra solid or if your model is very small
+- Take note of amount of material (g) and time estimated for print to finish
+- Keep a dedicated folder for all your 3D models, gcode exports, slicer sessions and other files on your system for good version control.
+- Rename the gcode files to something short with your name and version on it, the printer LCD screen is very small (e.g. Alice-necklace-v1.gcode)
+- Move .gcode file to your personal SD card, or bring the file to the makerspace on a USB stick 
+- Save your slicer session before closing (this is important for when you will make a v2)
 
 
-# Risks & Safety
-- Risk: burning and crushing hazard during operation
-- Risk: inhalation of VOCs whilst plastic is melted at 200+ degrees – do not put your face into the print, selection of filament and only FDM makes our current setup safe
-- Risk: fire – the hairspray is flammable and slight risk of short circuiting of power-supply of printer (electrical fire)
+# Risks
+- burning of fingers during operation and filament changing - the 3D printer extruder will reach over 200°C so do not touch it.
+- crushing hazard during operation - do not place fingers in gears or axis of the printer.
+- inhalation of VOCs – do not put your face into the print, selection of filament and using only FDM makes our current setup safe
+- fire – the hairspray is flammable and there is slight risk of short circuiting of power-supply of printer (electrical fire) if you spray it whilst the machine is on. Always apply hairspray to the printer sheet when it has been taken off the printer bed.
 
-Recommended PPE: Gloves
+# Safety
+Recommended PPE: light gloves
 
-Emergency stop: the X button below the LCD screen
+**Emergency stop: the X button below the LCD screen will halt the machine at any time.**
 
-In case of fire: unplug the machine first, then apply fire-extinguisher
+In case of fire: unplug the machine first at the wall socket then apply fire-extinguisher to the machine.
 
 
 # Errors & Troubleshooting
@@ -71,7 +80,7 @@ Report all other printer problems or error messages from the printers in the Tel
 If you don’t report the printer is broken, we won’t know it needs fixing
 
 
-# 3D Printing - Prusa MK3s
+# Checklist for 3D Printing - Prusa MK3s
 
 ## Prepare to print
 
@@ -102,9 +111,10 @@ If you don’t report the printer is broken, we won’t know it needs fixing
 - Plan to be present when print ends (see: bottom right of info screen)
 - For long prints, do check on it every hour
 - Whilst in print mode the menu on the LCD screen changes, if you push the Control Knob then you are able to ‘tune’ the print settings ‘on-the-fly’ 
-- Within the menu you can use the ‘pause print’ and ‘stop print’ options
+- Within the menu you can use the **pause print** 
+- within the meun is also the **stop print** option
 
-**EMERGENCY STOP: the X button below the LCD screen - Just press once, holding down the X button resets the printer settings**
+**EMERGENCY STOP: the X button below the LCD screen - just press it once,holding down the X button resets the printer settings**
 
 
 ## End of print
@@ -120,4 +130,9 @@ If you don’t report the printer is broken, we won’t know it needs fixing
 - If you brought your own: Take SD Card and filament spool
 - If not, pay for the grams of material you used with honesty box
 
+# See also
+[list of the 3D printers in our makerspace](./3d-printers/)
+[Operating manuals for these 3D printers](./manuals/)
+[Page of links and resources relating to 3D printing](./links-and-resources.md)
 
+**Source of images used:** Prusa - 3D Printing Handbook - [link to full manual](./manuals/prusa3d_manual_mk3s_en.pdf)
