@@ -4,9 +4,9 @@ reMADE has a sizable collection of hand tools and power tools, as well as some l
 
 ## Main sections
 
-- [3D Printing](./3d-printing/)
-- [Metalworking](./metalworking/)
-- [Woodworking](./woodworking/)
+- [3D Printing](./3d-printing/index.md)
+- [Metalworking](./metalworking/index.md)
+- [Woodworking](./woodworking/index.md)
 - [Others (see full list below)](#documented-in-this-wiki)
 
 ## Using the Equipment
