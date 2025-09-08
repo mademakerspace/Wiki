@@ -15,7 +15,7 @@ Brand and model: Metabo HC 260
 <https://www.metabo.com/com/en/tools/semi-stationary-tools/bench-thicknesser-planer-thicknessers/hc-260-c-2-2-wnb-0114026000-planer-thicknesser.html>
 
 ## Maintenance
-[Link to manual](/docs/tools-and-equipment/manuals/planer-thicknesser-metabo-hc-260.pdf)
+[Link to manual](../../manuals/planer-thicknesser-metabo-hc-260.pdf)
 
 Some maintenance resources:
 - <https://www.youtube.com/watch?v=PZgqrxvpsro>
