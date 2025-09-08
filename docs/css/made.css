@@ -26,3 +26,13 @@
 .wm-toc-pane a:visited {
     text-decoration: none;
 }
+
+/* Warnings and notes styling */
+
+.admonition.danger {
+    border-color: var(--remade-accent-color);
+}
+
+.admonition.danger .admonition-title {
+    background-color: var(--remade-accent-color);
+}

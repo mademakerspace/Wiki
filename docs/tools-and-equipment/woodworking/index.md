@@ -2,10 +2,11 @@
 
 - Saws
 - [Bandsaw](#bandsaw)
+- [Planer - thicknesser](./machines/planer-thicknesser.md)
+- [Wood lathe](./machines/wood-lathe.md)
 - Drills
 - Circular saw
 - Table saw
-- [Wood lathe](./machines/wood-lathe.md)
 - Drill press
 
 ## Documented here

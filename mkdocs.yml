@@ -17,6 +17,7 @@ markdown_extensions:
       toc_depth: '2-6'
   # - footnotes
   - nl2br
+  - admonition
 extra_css:
   - css/made.css
 plugins:
