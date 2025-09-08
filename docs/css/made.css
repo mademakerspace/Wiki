@@ -16,6 +16,13 @@
 }
 
 /* Table of contents sidebar */
+.wm-toc-pane {
+    overflow-y: auto;
+    /* There is a 50px padding at the top (absolute placement to 50px),
+    we need to account for it to be able to scroll the nav menu when overflowing */
+    height: calc(100% - 50px);
+}
+
 .wm-toc-pane li.wm-current {
     background-color: var(--remade-accent-color);
 }
