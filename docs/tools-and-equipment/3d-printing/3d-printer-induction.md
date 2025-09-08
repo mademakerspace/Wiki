@@ -2,7 +2,7 @@
 
 ## The World of 3D Printing
 
-- Types of 3D printing: FDM (fuse deposition modeling), Laser (SLS, DMLS, EBM), Resin, Ceramic, Food, Metal printing
+- Types of 3D printing: FDM (fuse deposition modeling), Laser, Resin, Ceramic, Food, Metal printing
 - Filament material: PLA, PETG, ABS, ASA, TPU, Nylon and [many others](https://en.wikipedia.org/wiki/3D_printing_filament)
 - Printer brands: Prusa, Creality, Ender, LulzBot, Ultimaker, Bambu and many others
 
@@ -143,9 +143,9 @@ Report all printer problems or error messages from the printers in the Telegram 
 
 # Other wiki links
 
-[list of the 3D printers in our makerspace](./3d-printers/)
+[list of the 3D printers in our makerspace](./index.md)
 
-[Operating manuals for these 3D printers](./manuals/)
+[Operating manuals for these 3D printers](./manuals/prusa3d_manual_mk3s_en.pdf)
 
 [Page of links and resources relating to 3D printing](./links-and-resources.md)
 
