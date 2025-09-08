@@ -13,8 +13,10 @@ extra:
   logo: 'images/remade-logo-transparent.svg'
   # article_nav_top: false
 markdown_extensions:
-  toc:
-    toc_depth: '1-6'
+  - toc:
+      toc_depth: '2-6'
+  # - footnotes
+  - nl2br
 extra_css:
   - css/made.css
 plugins:

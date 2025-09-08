@@ -5,7 +5,7 @@
 - Drills
 - Circular saw
 - Table saw
-- Wood lathe
+- [Wood lathe](./machines/wood-lathe.md)
 - Drill press
 
 ## Documented here
