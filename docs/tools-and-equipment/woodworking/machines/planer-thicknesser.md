@@ -9,13 +9,15 @@ This tool is dual function:
     - Do **not** push the board through forcefully. Let the tool do the work
     - Do not bring your hand close to the drum, always use a pusher block/tool
 
-![Metabo HC 260](../images/hc-260-c-planer-thicknesser.jpg)
-Brand and model: Metabo HC 260
+![Elektra-Beckum HC 260](../images/hc-260-c-planer-thicknesser.jpg)
+Brand and model: Elektra-Beckum PT 260
+
+The newer models of the same machine (with small differences) are from the brand Metabo.
 
 <https://www.metabo.com/com/en/tools/semi-stationary-tools/bench-thicknesser-planer-thicknessers/hc-260-c-2-2-wnb-0114026000-planer-thicknesser.html>
 
 ## Maintenance
-[Link to manual](../../manuals/planer-thicknesser-metabo-hc-260.pdf)
+[Link to manual](../../manuals/planer-thicknesser-Elektra-Beckum-PT260.pdf)
 
 Some maintenance resources:
 - <https://www.youtube.com/watch?v=PZgqrxvpsro>
